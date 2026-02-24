@@ -1,0 +1,21 @@
+{
+  "name": "ark-bpo-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static marketing website for ARK BPO IT and finance services.",
+  "scripts": {
+    "start": "npx serve .",
+    "preview": "npx serve ."
+  },
+  "keywords": [
+    "bpo",
+    "it services",
+    "finance",
+    "landing-page"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
+
